@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hassanali
-- 👀 I’m interested in mostly in new technologies now days i'm used to work in Web front end and also python.- 
-- 🌱 Now days I’m currently learning Unity Game Engine.
-- 💞️ I’m looking to collaborate on adventurous but interesting Unity project which help me in enhancing my front end skills.
+- 👀 I’m interested in mostly in new technologies now days i'm focused on unity game engine and used to work in Web front end and also python.
+- 🌱 Now days I’m currently learning & working in Unity Game Engine.
+- 💞️ I’m looking to collaborate on adventurous but interesting Unity project which help me in enhancing my skills in my career as a Game developer.
 - 📫 How to reach me ... on my discord id : Hassan#0469 
 
 <!---
